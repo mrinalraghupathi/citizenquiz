@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mrinalraghupathi.github.io/citizenquiz/static/css/main.59115454.css",
-    "main.js": "/mrinalraghupathi.github.io/citizenquiz/static/js/main.e842b6af.js",
+    "main.js": "/mrinalraghupathi.github.io/citizenquiz/static/js/main.fbc5a0fa.js",
     "static/js/787.83904489.chunk.js": "/mrinalraghupathi.github.io/citizenquiz/static/js/787.83904489.chunk.js",
     "index.html": "/mrinalraghupathi.github.io/citizenquiz/index.html",
     "main.59115454.css.map": "/mrinalraghupathi.github.io/citizenquiz/static/css/main.59115454.css.map",
-    "main.e842b6af.js.map": "/mrinalraghupathi.github.io/citizenquiz/static/js/main.e842b6af.js.map",
+    "main.fbc5a0fa.js.map": "/mrinalraghupathi.github.io/citizenquiz/static/js/main.fbc5a0fa.js.map",
     "787.83904489.chunk.js.map": "/mrinalraghupathi.github.io/citizenquiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59115454.css",
-    "static/js/main.e842b6af.js"
+    "static/js/main.fbc5a0fa.js"
   ]
 }
